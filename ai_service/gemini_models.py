@@ -114,12 +114,16 @@ class AIAgent:
         # Fetch the raw content from the URL
         response = requests.get(url)
         if response.status_code == 200:
-            # Parse the HTML content with BeautifulSoup and get all text
+            # Parse the HTML content with BeautifulSoup and get text from element with id='main'
             soup = BeautifulSoup(response.content, 'html.parser')
-            content = soup.get_text()  # Extract all the text content
-            return content
+            main_div = soup.find(id="main-content")
+            if main_div:
+                content = main_div.get_text(separator="\n", strip=True)  # More readable text
+                return content
+            else:
+                return "No content found in element with id='main'"
         else:
-            return "Failed to fetch content"
+            return f"Failed to fetch content: HTTP {response.status_code}"
 
     def summarize_content(self, raw_content):
         # Use the AI model to summarize the content
