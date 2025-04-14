@@ -7,3 +7,4 @@ supabase
 serpapi
 google-search-results
 google-serp-api
+google-genai
