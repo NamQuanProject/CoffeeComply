@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import google.generativeai as genai
+from google import genai
 from dotenv import load_dotenv
 import os
 from google.genai.types import (
@@ -41,7 +41,7 @@ class AIAgent:
     def __init__(self, config=None, default_agent=False):
         if default_agent == True :
             config = Config()
-            config.api_key = "AIzaSyA-diMzifz9kbnY5IbN5KPKfKNJR9eexoc"
+            config.api_key = "AIzaSyAVtquUcri8ehMleX4xF-H48P1Ox_Zc1yU"
             config.model_name = "gemini-2.5-pro-exp-03-25"
             config.temperature = 0.0
             config.name = "DefaultAgent"
