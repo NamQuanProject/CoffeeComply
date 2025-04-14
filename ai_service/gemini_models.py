@@ -1,3 +1,5 @@
+import requests
+from bs4 import BeautifulSoup
 from google import genai
 from dotenv import load_dotenv
 import os
@@ -15,6 +17,7 @@ from google.genai.types import (
     ToolCodeExecution,
     VertexAISearch,
 )
+
 
 
 load_dotenv()
@@ -104,6 +107,27 @@ class AIAgent:
             return None
         else:
             print("Not initialize the models")
+
+
+
+    def fetch_full_text(self, url):
+        # Fetch the raw content from the URL
+        response = requests.get(url)
+        if response.status_code == 200:
+            # Parse the HTML content with BeautifulSoup and get all text
+            soup = BeautifulSoup(response.content, 'html.parser')
+            content = soup.get_text()  # Extract all the text content
+            return content
+        else:
+            return "Failed to fetch content"
+
+    def summarize_content(self, raw_content):
+        # Use the AI model to summarize the content
+        prompt = f"Summarize the following content:\n\n{raw_content}"
+        summary = self.generate_response(prompt)
+        return summary
+       
+
 
     
     def set_up_instruction(self, instruction):

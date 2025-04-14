@@ -1,26 +1,7 @@
-import ai_service
-
-
-
-agent = ai_service.AIAgent(default_agent=True)
-
-
-
-
-response = agent.generate_response("What is this")
+from ai_service import AIAgent
+from crawler.trade_policy import extract_trade_policy
 
 
 
 
-print(response)
-
-
-agent.close()
-
-another_data = agent.generate_response("What is this")
-
-print(another_data)
-
-
-
-
+extract_trade_policy()

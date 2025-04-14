@@ -1,0 +1,987 @@
+[
+  {
+    "title": "eu-trade-relationships-country-and-region",
+    "subtopics": [
+      {
+        "name": "algeria_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/algeria_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "andean-community_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/andean-community_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "argentina_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/argentina_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "armenia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/armenia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "association-south-east-asian-nations-asean_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/association-south-east-asian-nations-asean_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "australia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/australia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "azerbaijan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/azerbaijan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "bangladesh_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/bangladesh_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "belarus_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/belarus_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "brazil_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/brazil_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "cambodia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/cambodia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "canada_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/canada_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "caribbean_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/caribbean_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "central-africa_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/central-africa_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "central-america_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/central-america_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "central-asia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/central-asia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "chile_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/chile_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "china_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "east-african-community-eac_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/east-african-community-eac_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eastern-and-southern-africa-esa_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/eastern-and-southern-africa-esa_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "egypt_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/egypt_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "faroe-islands_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/faroe-islands_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "georgia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/georgia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "gulf-region_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/gulf-region_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "hong-kong-sar_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/hong-kong-sar_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "iceland_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/iceland_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "india_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/india_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "indonesia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "iran_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/iran_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "iraq_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/iraq_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "israel_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/israel_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "japan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/japan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "jordan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/jordan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "kazakhstan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/kazakhstan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "laos_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/laos_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "lebanon_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/lebanon_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "libya_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/libya_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "malaysia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/malaysia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "mercosur_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "mexico_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mexico_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "moldova_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/moldova_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "morocco_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/morocco_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "myanmar_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/myanmar_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "new-zealand_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/new-zealand_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "norway_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/norway_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "pacific_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/pacific_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "pakistan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/pakistan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "palestine_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/palestine_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "paraguay_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/paraguay_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "philippines_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/philippines_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "russia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/russia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "singapore_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/singapore_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "south-africa_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/south-africa_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "south-korea_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/south-korea_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "southern-african-development-community-sadc_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/southern-african-development-community-sadc_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "southern-neighbourhood_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/southern-neighbourhood_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "sri-lanka_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/sri-lanka_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "switzerland_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/switzerland_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "syria_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/syria_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "taiwan_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/taiwan_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "thailand_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/thailand_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "tunisia_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/tunisia_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "turkiye_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/turkiye_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "ukraine_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/ukraine_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "united-kingdom_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/united-kingdom_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "united-states_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/united-states_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "uruguay_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/uruguay_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "venezuela_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/venezuela_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "vietnam_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/vietnam_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "west-africa_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/west-africa_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "western-balkans_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/western-balkans_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "countries-and-regions_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "doha-development-agenda_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/eu-and-wto/doha-development-agenda_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eu-and-wto_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/eu-and-wto_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eu-position-world-trade_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/eu-position-world-trade_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "exporters-stories_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/exporters-stories_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "making-trade-policy_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/making-trade-policy_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "negotiations-and-agreements_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/negotiations-and-agreements_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "domestic-advisory-groups_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/transparency-eu-trade-negotiations/domestic-advisory-groups_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "transparency-eu-trade-negotiations_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/transparency-eu-trade-negotiations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eu-trade-relationships-country-and-region_en",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region_en",
+        "description": "",
+        "summary": ""
+      }
+    ]
+  },
+  {
+    "title": "development-and-sustainability",
+    "subtopics": [
+      {
+        "name": "conflict-minerals-regulation_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/conflict-minerals-regulation_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "economic-partnerships_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/economic-partnerships_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "generalised-scheme-preferences_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/generalised-scheme-preferences_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "support-developing-countries_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/support-developing-countries_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "environmental-protection_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development/environmental-protection_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "human-rights_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development/human-rights_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "labour-rights_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development/labour-rights_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "responsible-business_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development/responsible-business_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "sustainable-development-eu-trade-agreements_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development/sustainable-development-eu-trade-agreements_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "sustainable-development_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability/sustainable-development_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "development-and-sustainability_en",
+        "url": "https://policy.trade.ec.europa.eu/development-and-sustainability_en",
+        "description": "",
+        "summary": ""
+      }
+    ]
+  },
+  {
+    "title": "enforcement-and-protection",
+    "subtopics": [
+      {
+        "name": "chief-trade-enforcement-officer_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/chief-trade-enforcement-officer_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "algeria-trade-restrictive-measures_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/bilateral-disputes/algeria-trade-restrictive-measures_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "korea-labour-commitments_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/bilateral-disputes/korea-labour-commitments_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "southern-african-customs-union-poultry-safeguards_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/bilateral-disputes/southern-african-customs-union-poultry-safeguards_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "ukraine-wood-export-ban_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/bilateral-disputes/ukraine-wood-export-ban_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "bilateral-disputes_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/bilateral-disputes_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "energy-charter-treaty-nord-stream-2_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/investment-disputes/energy-charter-treaty-nord-stream-2_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "energy-charter-treaty-pnb-banka_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/investment-disputes/energy-charter-treaty-pnb-banka_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "reform-isds-mechanism_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/investment-disputes/reform-isds-mechanism_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "investment-disputes_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/investment-disputes_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "wto-disputes-cases-involving-eu_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/wto-dispute-settlement/wto-disputes-cases-involving-eu_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "wto-dispute-settlement_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement/wto-dispute-settlement_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "dispute-settlement_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/dispute-settlement_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "implementing-and-enforcing-eu-trade-agreements_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/implementing-and-enforcing-eu-trade-agreements_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "investment-screening_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/investment-screening_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "relevant-documents_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/multilateral-investment-court-project/relevant-documents_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "multilateral-investment-court-project_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/multilateral-investment-court-project_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "protecting-against-coercion_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-against-coercion_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "access-medicines_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-creations-inventions-and-designs/access-medicines_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "benefits-ipr_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-creations-inventions-and-designs/benefits-ipr_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "geographical-indications_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-creations-inventions-and-designs/geographical-indications_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "protecting-eu-creations-inventions-and-designs_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-creations-inventions-and-designs_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "trade-barrier-investigations_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-barrier-investigations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-dumping-complaints_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures/anti-dumping-complaints_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-dumping-investigations_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures/anti-dumping-investigations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-dumping-refunds_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures/anti-dumping-refunds_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-dumping-reviews_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures/anti-dumping-reviews_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "trade-defence-measures_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures/trade-defence-measures_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-dumping-measures_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-subsidy-complaints_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-subsidy-measures/anti-subsidy-complaints_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-subsidy-investigations_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-subsidy-measures/anti-subsidy-investigations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-subsidy-refunds_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-subsidy-measures/anti-subsidy-refunds_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-subsidy-reviews_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-subsidy-measures/anti-subsidy-reviews_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "anti-subsidy-measures_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-subsidy-measures_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "help-smes_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/help-smes_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "safeguard-complaints_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/safeguards/safeguard-complaints_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "safeguard-investigations_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/safeguards/safeguard-investigations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "safeguard-measures_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/safeguards/safeguard-measures_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "safeguard-monitoring_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/safeguards/safeguard-monitoring_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "safeguards_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/safeguards_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "trade-defence_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "enforcement-and-protection_en",
+        "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection_en",
+        "description": "",
+        "summary": ""
+      }
+    ]
+  },
+  {
+    "title": "help-exporters-and-importers",
+    "subtopics": [
+      {
+        "name": "digital-trade_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/goods-and-services/digital-trade_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "services_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/goods-and-services/services_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "goods-and-services_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/goods-and-services_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "investment_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/investment_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "public-procurement_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/public-procurement_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "minerals-security-partnership-forum_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/raw-materials/minerals-security-partnership-forum_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "raw-materials_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/raw-materials_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "technical-barriers-trade_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets/technical-barriers-trade_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "accessing-markets_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/accessing-markets_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eu-companies-accessing-world-markets_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/eu-companies-accessing-world-markets_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "exporting-dual-use-goods_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/exporting-dual-use-goods_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "import-and-export-rules_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/import-and-export-rules_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "importing-eu_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/importing-eu_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "trade-waste_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/trade-waste_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "help-exporters-and-importers_en",
+        "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers_en",
+        "description": "",
+        "summary": ""
+      }
+    ]
+  },
+  {
+    "title": "analysis-and-assessment",
+    "subtopics": [
+      {
+        "name": "calls-tender_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/calls-tender_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "economic-analysis_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/economic-analysis_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "eu-trade-meetings-civil-society_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/eu-trade-meetings-civil-society_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "ex-post-evaluations_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/ex-post-evaluations_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "expert-groups_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/expert-groups_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "impact-assessments_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/impact-assessments_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "policy-evaluation_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/policy-evaluation_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "trade-and-jobs_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/statistics/trade-and-jobs_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "statistics_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/statistics_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "sustainability-impact-assessments_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment/sustainability-impact-assessments_en",
+        "description": "",
+        "summary": ""
+      },
+      {
+        "name": "analysis-and-assessment_en",
+        "url": "https://policy.trade.ec.europa.eu/analysis-and-assessment_en",
+        "description": "",
+        "summary": ""
+      }
+    ]
+  }
+]
