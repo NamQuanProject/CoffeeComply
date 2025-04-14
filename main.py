@@ -1,8 +1,10 @@
 from crawler.functions import get_trade_policy_information
+from output.analysis import handleUserPrompt
 
 
 
 
 
+print(handleUserPrompt("What are the new import regulations for coffee in Europe?", specific_user="exporters"))
 
-print(get_trade_policy_information("I am a coffee exporter and I wonder want to invest in Vietnam how do you think you should advice me about trade policy"))
+
