@@ -48,4 +48,36 @@ def handleUserPrompt(prompt, specific_user):
     save_final_output(str(prompt), str(response))
     agent.close()
     return response
-    
+
+
+
+
+def handleUserNormalPrompt(prompt, specific_user):
+    agent = AIAgent(default_agent=True)
+    google_search_information = get_google_answer(question=prompt)
+
+    agent.model_name = "gemini-2.0-flash"
+    final_prompt = f"""
+    You are a professional trade and market advisor specializing in international commerce, investment frameworks, and product-specific export strategies.
+
+    A user who is {specific_user} is seeking guidance on the following topic:
+    → "{prompt}"
+
+    To assist them, use the following curated data:
+
+    🌐 **Insights from Google/Web Search**:
+    {google_search_information}
+
+
+    🎯 **Your task**:
+    - Provide a clear, well-structured, and actionable response.
+    - Explain in full and give links if necessary.
+    - Highlight trade opportunities, regulatory constraints, export incentives, and market access rules.
+    - If applicable, suggest next steps or useful contacts (like government agencies or agreements to explore).
+
+    Make sure your tone is professional, informative, and supportive—similar to a consulting report given to an investor or business operator.
+    """
+    response = agent.generate_response(final_prompt)
+    save_final_output(str(prompt), str(response))
+    agent.close()
+    return response

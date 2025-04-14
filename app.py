@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from supabase_client import get_supabase
-from crawler.analysis import handleUserPrompt
+from crawler.analysis import handleUserPrompt, handleUserNormalPrompt
 
 supabase = get_supabase()
 
@@ -49,17 +49,12 @@ def handle_logout():
 def handle_reasoning_response(prompt, role):
     return handleUserPrompt(prompt=prompt, specific_user=role)
 
-def handle_normal_response(prompt):
-    return f"🤖 [Normal] AI phản hồi: '{prompt}' là một tin nhắn hay!"
+def handle_normal_response(prompt, role):
+    return handleUserNormalPrompt(prompt=prompt, specific_user=role)
 
 def handle_role_response(prompt, role):
-    if role == "farmers":
-        return f"🌾 [Farmers] Thông tin về nông nghiệp: '{prompt}'"
-    elif role == "exporters":
-        return f"🚢 [Exporters] Thông tin về xuất khẩu: '{prompt}'"
-    elif role == "importers":
-        return f"📦 [Importers] Thông tin về nhập khẩu: '{prompt}'"
-    return f"🤖 AI phản hồi: '{prompt}'"
+    return handleUserNormalPrompt(prompt=prompt, specific_user=role)
+
 
 def set_response_mode(mode):
     st.session_state.response_mode = mode
