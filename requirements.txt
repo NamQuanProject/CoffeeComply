@@ -5,3 +5,5 @@ google-generativeai
 streamlit
 supabase
 serpapi
+google-search-results
+google-serp-api
