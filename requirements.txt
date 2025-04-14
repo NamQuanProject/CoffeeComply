@@ -3,4 +3,4 @@ beautifulsoup4
 python-dotenv
 google-generativeai
 streamlit
-supabase-py
+supabase
