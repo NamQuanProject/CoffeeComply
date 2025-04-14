@@ -2,6 +2,7 @@
 from dotenv import load_dotenv
 from ai_service import AIAgent
 from crawler import get_google_answer, get_trade_policy_information, get_product_information
+from crawler.database_intergration import save_final_output
 import os
 load_dotenv()
 
@@ -44,6 +45,7 @@ def handleUserPrompt(prompt, specific_user):
     """
 
     response = agent.generate_response(final_prompt)
+    save_final_output(str(prompt), str(response))
     agent.close()
     return response
     

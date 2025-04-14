@@ -1,5 +1,5 @@
 from serpapi import GoogleSearch
-
+from crawler.database_intergration import save_google_search
 
 def get_google_answer(question):
     question = f"Can you give me a latest news related to this {question}"
@@ -26,9 +26,9 @@ def get_google_answer(question):
                     "Link": link,
                     "Snippet": snippet,
                 })
-
+        save_google_search(question, str(final_info))
         return final_info
-
+        
     except Exception as e:
         print(f"Error during search: {e}")
         return []

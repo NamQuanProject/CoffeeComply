@@ -1,7 +1,7 @@
 from crawler.google_questioning import get_google_answer
 from crawler.utils import read_json
 from ai_service import AIAgent
-
+from crawler.database_intergration import save_relevant_product, save_relevant_trade
 
 def get_trade_policy_links(prompt):
     data = read_json("crawler/craw_json_data/trade_topics_links.json") 
@@ -54,8 +54,9 @@ def get_trade_policy_information(prompt):
 
     agent = AIAgent(default_agent=True)
     response = agent.generate_response(final_information)
-    agent.close()
     
+    agent.close()
+    save_relevant_trade(str(prompt), str(response))
     return response
 
 
@@ -87,35 +88,12 @@ def get_product_information(prompt):
     agent = AIAgent(default_agent=True)
     response = agent.generate_response_with_structure(link_extraction_prompt, structure=list[str])
     agent.close()
+
+    save_relevant_product(prompt, str(response))
     return response
 
 
 
 
-def get_google_additional_information(prompt):
-    relevant_links = get_product_information(prompt)
-    url_product_policy_map = read_json("crawler/craw_json_data/url_product_map.json")
-    
-    information = ""
-    for relevant_link in relevant_links:
-        info = url_product_policy_map.get(relevant_link)
-        if info:
-            information += f"{relevant_link}: {info}\n"
 
-    final_information = f"""
-    Imagine you are a specialist in analyzing trade policy. 
-    Your task is to integrate the user's prompt with the most relevant policy information from official documents.
-
-    This is the collected policy information related to the user's request:
-    
-    {information}
-
-    Based on this information, what policies are directly relevant to the user's prompt: "{prompt}"?
-    You can also provided link for checking up ! 
-    """
-
-    agent = AIAgent(default_agent=True)
-    response = agent.generate_response(final_information)
-    agent.close()
-    return response
     
