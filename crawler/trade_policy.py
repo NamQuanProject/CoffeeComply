@@ -5,6 +5,7 @@ from urllib.parse import urljoin, urlparse
 import json
 from ai_service import AIAgent
 from tqdm import tqdm
+import time
 
 MAIN_TRATE_LINK = "https://policy.trade.ec.europa.eu/trade-topics_en"
 TOPIC_CATEGORY = [
