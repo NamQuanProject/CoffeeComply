@@ -84,3 +84,17 @@ def safe_request(url, headers=None, retries=3):
 
 
 
+def create_json_map():
+    trade_topics_links = {
+
+    }
+    with open("crawler/craw_json_data/product_final_json.json", "r") as file:
+        
+        product_data = json.load(file)
+        for link in product_data:
+                trade_topics_links[link["url"]] = link["description"]
+    
+    with open("temp.json", "w") as another_file:
+        json.dump(trade_topics_links, another_file,indent=4, ensure_ascii=False)
+
+

@@ -2,6 +2,7 @@ from serpapi import GoogleSearch
 
 
 def get_google_answer(question):
+    question = f"Can you give me a latest news related to this {question}"
     params = {
         "q": question,
         "api_key": "8fec8dd93965177b5736bd9582b7889d70d15d53e7615a6f9436c95be93715e9",
