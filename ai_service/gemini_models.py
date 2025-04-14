@@ -83,18 +83,36 @@ class AIAgent:
         self.default_safety_settings()
 
 
+    def close(self):
+        # Clean up resources if necessary (though GenAI client might not require this)
+        self.client = None
+    
+
+
     def generate_response(self, prompt):
-        self.client.models.generate_content(
-            model=self.model_name, contents=prompt,
-            config= GenerateContentConfig(
-                # system_instruction=self.system_instruction,
-                
-                safety_settings=self.safety_settings,
+        if self.client:
+            response = self.client.models.generate_content(
+                model=self.model_name, contents=prompt,
+                config= GenerateContentConfig(
+                    # system_instruction=self.system_instruction,
+
+                    safety_settings=self.safety_setting,
+                )
             )
-        )
+            if response.candidates:
+                return response.candidates[0].content.parts[0].text
+            return None
+        else:
+            print("Not initialize the models")
 
-    def add_history():
-        pass
+    
+    def set_up_instruction(self, instruction):
+        # You can add a method to set up any instructions if needed
+        self.system_instruction = instruction
 
-    def clear_history():
-        pass
+
+    def add_history(self, request, response, timestamp):
+        self.history.append(History(request, response, timestamp))
+
+    def clear_history(self):
+        self.history.clear()
