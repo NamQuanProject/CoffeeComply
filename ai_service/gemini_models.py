@@ -88,7 +88,6 @@ class AIAgent:
 
 
     def close(self):
-        # Clean up resources if necessary (though GenAI client might not require this)
         self.client = None
     
 

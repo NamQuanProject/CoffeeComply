@@ -1,5 +1,6 @@
 import json
 from openai import OpenAI
+from ai_service import AIAgent
 from dotenv import load_dotenv
 import os
 from pydantic import BaseModel, Field
@@ -98,7 +99,7 @@ def structure_open_ai(prompt):
 
 
 
-def handle_cases_from_file(file_path):
+def handle_trade_topics_from_file(file_path):
     """Load the JSON from the file and process it."""
     # Load the JSON data from the file
     data = load_json_from_file(file_path)
@@ -120,7 +121,28 @@ def handle_cases_from_file(file_path):
 
 
 
-handle_cases_from_file("main_and_subtopics.json")
+def handle_products_links_from_file(file_path):
+    agent = AIAgent(default_agent=True)
+
+    data = load_json_from_file(file_path)
+    
+    product_description = []
+
+    for link in data:
+        raw_content = agent.fetch_full_text(link)
+
+        json_data = structure_open_ai(raw_content)
+        description = json_data["description"]
+        summary = json_data["summary"]
+        product_description.append({
+            "url": link,
+            "description":description,
+            "summary": summary
+        })
+    with open("product_final_json.json", "w") as file:
+        json.dump(product_description, file, indent=2)
+        
+
 
 
 
