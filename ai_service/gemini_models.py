@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from google import genai
+import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 from google.genai.types import (
