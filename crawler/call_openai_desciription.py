@@ -46,7 +46,6 @@ class ContentSummary(BaseModel):
 
 
 
-
 def structure_open_ai(prompt):
     messages = [
         {
@@ -128,7 +127,7 @@ def handle_products_links_from_file(file_path):
     
     product_description = []
 
-    for link in data:
+    for link in tqdm(data):
         raw_content = agent.fetch_full_text(link)
 
         json_data = structure_open_ai(raw_content)
@@ -142,7 +141,6 @@ def handle_products_links_from_file(file_path):
     with open("product_final_json.json", "w") as file:
         json.dump(product_description, file, indent=2)
         
-
 
 
 

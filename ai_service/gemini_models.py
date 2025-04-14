@@ -42,7 +42,7 @@ class AIAgent:
         if default_agent == True :
             config = Config()
             config.api_key = "AIzaSyB22ThtcCvZuXual9uaT_6v4Bo5R6oBdok"
-            config.model_name = "gemini-2.0-flash"
+            config.model_name = "gemini-2.5-pro-exp-03-25"
             config.temperature = 0.0
             config.name = "DefaultAgent"
         
@@ -101,6 +101,22 @@ class AIAgent:
 
                     safety_settings=self.safety_setting,
                 )
+            )
+            if response.candidates:
+                return response.candidates[0].content.parts[0].text
+            return None
+        else:
+            print("Not initialize the models")
+
+    def generate_response_with_structure(self, prompt, structure):
+        if self.client:
+            response = self.client.models.generate_content(
+                model=self.model_name, contents=prompt,
+                
+                config= {
+                    "response_mime_type":"application/json",
+                    "response_schema" : list[str]
+                }
             )
             if response.candidates:
                 return response.candidates[0].content.parts[0].text
