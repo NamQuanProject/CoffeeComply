@@ -1,4 +1,4 @@
-from serpapi import GoogleSearch
+from serpapi.google_search import GoogleSearch
 from crawler.database_intergration import save_google_search
 
 def get_google_answer(question):
