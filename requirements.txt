@@ -4,7 +4,8 @@ python-dotenv
 google-generativeai
 streamlit
 supabase
+google-genai
+google-search-results
 serpapi
 google-search-results
 google-serp-api
-google-genai
